@@ -4,6 +4,7 @@ title: '鴉片速改文（1835 年新加坡刊本，牛津 Sinica 1270） / Ya p
   Give Up Opium]: Transcription Dataset'
 type: dataset
 version: 0.2.0
+doi: "10.5281/zenodo.24405299"
 authors:
 - family-names: Chu
   given-names: Chen-Yu
