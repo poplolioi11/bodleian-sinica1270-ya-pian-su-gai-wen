@@ -1,0 +1,506 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lzh">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>鴉片速改文</title>
+        <title type="alternate">Ya pian su gai wen</title>
+        <author>仁愛者（Ira Tracy，館目歸屬）</author>
+        <respStmt>
+          <resp>整理與編碼</resp>
+          <name>曲宸宇 (Chu, Chen-Yu)</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Transcription dataset v0.1.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>新加坡</settlement>
+            <repository>牛津大學博德利圖書館</repository>
+            <collection>Sinica</collection>
+            <idno>Sinica 1270</idno>
+            <altIdentifier>
+              <idno>SINICA1270</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p>1835 年新加坡刊行的漢文戒鴉片勸戒文，論吸食對身體、家計、社會及宗教生活的影響。</p>
+              <ref target="https://digital.bodleian.ox.ac.uk/objects/df5ed318-42b4-43f6-809c-ab7b15f9f9fb/">館方書目</ref>
+              <ref target="https://iiif.bodleian.ox.ac.uk/iiif/manifest/df5ed318-42b4-43f6-809c-ab7b15f9f9fb.json">館方影像清單</ref>
+            </summary>
+          </msContents>
+          <history>
+            <origin>
+              <p>道光乙未冬（1835）</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>書面與欄按影像實際順序。文字、細注及可定位原筆標記分層，疑字及未錄位置由材料指出。</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/c3f9e50d-4a72-4192-a90a-e7336093e45b.json" xml:id="f01">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/c3f9e50d-4a72-4192-a90a-e7336093e45b/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="2" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/1e672120-adf5-430f-bf6a-4f4207ffbcba.json" xml:id="f02">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/1e672120-adf5-430f-bf6a-4f4207ffbcba/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="3" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/c1ccc9f9-738a-4a0d-956c-8896893ca797.json" xml:id="f03">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/c1ccc9f9-738a-4a0d-956c-8896893ca797/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="4" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/c20367ed-e424-4fab-be61-3174e7271d60.json" xml:id="f04">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/c20367ed-e424-4fab-be61-3174e7271d60/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="5" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/d4a91d67-a424-4904-9804-c94c6a8623cd.json" xml:id="f05">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/d4a91d67-a424-4904-9804-c94c6a8623cd/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="6" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/0f179d9a-2f1f-48f2-845b-f36289a4bd5a.json" xml:id="f06">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/0f179d9a-2f1f-48f2-845b-f36289a4bd5a/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="7" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/dac490a4-eca8-4393-b723-28d056dc6f75.json" xml:id="f07">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/dac490a4-eca8-4393-b723-28d056dc6f75/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="8" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/9d69e789-4ccb-4e4b-ab08-99b3557f2aeb.json" xml:id="f08">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/9d69e789-4ccb-4e4b-ab08-99b3557f2aeb/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="9" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/be8975c8-7dc2-476e-8e23-7a7acdce8313.json" xml:id="f09">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/be8975c8-7dc2-476e-8e23-7a7acdce8313/full/2000,/0/default.jpg" />
+    </surface>
+    <surface n="10" corresp="https://iiif.bodleian.ox.ac.uk/iiif/canvas/8e6841fd-7897-4da8-abf1-81e7efd33e4f.json" xml:id="f10">
+      <graphic url="https://iiif.bodleian.ox.ac.uk/iiif/image/8e6841fd-7897-4da8-abf1-81e7efd33e4f/full/2000,/0/default.jpg" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="codex">
+        <pb n="1" facs="#f01" />
+        <div n="1" type="scan" subtype="housing-or-binding">
+          <div type="page-face" n="single">
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>封面展覽題籤</label>
+              <seg type="diplomatic-text" rend="black">CENTENNIAL EXHIBITION.</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>封面展覽題籤</label>
+              <seg type="diplomatic-text" rend="black">China Protestant Mission.</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>封面展覽題籤</label>
+              <seg type="diplomatic-text" rend="black">No 106</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>封面上方墨記</label>
+              <seg type="diplomatic-text" rend="unknown">636ᵈ</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>封面下半第一行鉛筆記</label>
+              <seg type="diplomatic-text" rend="unknown">Sinica 1270</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>封面下半圈記</label>
+              <seg type="diplomatic-text" rend="unknown">Ser e. 172</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation">
+              <label>封面下半圈記</label>
+              <seg type="diplomatic-text" rend="unknown">Chin. 636ᵈ</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：上封面。題籤為英文印刷標籤，106 為手填。第一鉛記下的圈記「Ser」與「e.」待覆。</ab>
+          </div>
+        </div>
+        <pb n="2" facs="#f02" />
+        <div n="2" type="scan" subtype="title-and-imprint">
+          <div type="page-face" n="right">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f02-l-c01">
+              <seg type="diplomatic-text">道光乙未冬鐫　新嘉坡書院藏板</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f02-l-c02">
+              <seg type="diplomatic-text">鴉片速改文</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f02-l-c03">
+              <seg type="diplomatic-text">仁愛者纂</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：上封內側，未見正寫文字。 左面：實有扉頁三欄。第1欄紀年和藏板名上下同欄，第2欄大字。館標 p. [1]。</ab>
+          </div>
+        </div>
+        <pb n="3" facs="#f03" />
+        <div n="3" type="scan" subtype="printed-text">
+          <div type="page-face" n="right">
+            <ab type="page-feature" subtype="seal">
+              <label>右頁下緣圓印</label>
+              <seg type="diplomatic-text" rend="unknown">〔字數未定〕</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f03-l-c01">
+              <seg type="diplomatic-text">鴉片六戒</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f03-l-c02">
+              <seg type="diplomatic-text">犯法</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f03-l-c03">
+              <seg type="diplomatic-text">國法森嚴私開烟館煮賣販賣以及食者重</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f03-l-c04">
+              <seg type="diplomatic-text">則擬絞軍徒輕則枷杖人生世間事事可以</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f03-l-c05">
+              <seg type="diplomatic-text">謀生物物可以娛情何苦專尋此毒自罹法</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f03-l-c06">
+              <seg type="diplomatic-text">網</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f03-l-c07">
+              <seg type="diplomatic-text">不孝</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f03-l-c07">
+              <label>左頁外緣版心</label>
+              <seg type="diplomatic-text" rend="unknown">鴉片六戒</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：館標 p. [2]。可見扉頁反向透墨及右下圓印，無另錄正寫文字。 左面：館標 p. [3]。第1欄為篇題。第2、7欄「犯法」「不孝」抬頭為小題。第3欄「烟」依木刻字形。</ab>
+          </div>
+        </div>
+        <pb n="4" facs="#f04" />
+        <div n="4" type="scan" subtype="printed-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f04-r-c01">
+              <seg type="diplomatic-text">嗜食鴉片為父母者既憂其絕嗣促年又懼</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f04-r-c02">
+              <seg type="diplomatic-text">其不法生禍以血氣既衰之人積沈鬱莫解</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f04-r-c03">
+              <seg type="diplomatic-text">之憂因憂致疾因疾隕命是何異於人子促</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f04-r-c04">
+              <seg type="diplomatic-text">親之壽言念及此不孝之罪真堪痛恨</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f04-r-c05">
+              <seg type="diplomatic-text">破家</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f04-r-c06">
+              <seg type="diplomatic-text">凡人衣食饒裕或祖父所遺或一己自創一</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f04-r-c07">
+              <seg type="diplomatic-text">旦嗜此上引坐食無用兼以流朋宴友吹波</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f04-r-c07">
+              <label>右頁外緣版心</label>
+              <seg type="diplomatic-text" rend="unknown">鴉片六戒　一</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f04-l-c01">
+              <seg type="diplomatic-text">助瀾聚集浪費身家定必銷乏迨雞食艱不給</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f04-l-c02">
+              <seg type="diplomatic-text">借貸無門甚至質妻賣子途窮自盡者有之</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f04-l-c03">
+              <seg type="diplomatic-text">廻思向所享產業經祖父及當身多少辛勤</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f04-l-c04">
+              <seg type="diplomatic-text">儉積纔得有此飽暖之福今因嗜此而忽歸</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f04-l-c05">
+              <seg type="diplomatic-text">烏有饑寒迫切妻啼子號清夜豈敢捫心到</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f04-l-c06">
+              <seg type="diplomatic-text">此悔之何及</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f04-l-c07">
+              <seg type="diplomatic-text">害身</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f04-l-c07">
+              <label>左頁外緣版心</label>
+              <seg type="diplomatic-text" rend="unknown">鴉片六戒</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：館標 p. [4]，版心「一」另列，館標與原葉碼有別。第2欄「沈」照圖。第7欄「流朋」待覆。 左面：館標 p. [5]。第1欄「銷乏迨雞食艱」數字待覆。第4欄「儉」候「儲」。第7欄圖讀「害身」，館外另一底本作「舍身」，保留此本題字。</ab>
+          </div>
+        </div>
+        <pb n="5" facs="#f05" />
+        <div n="5" type="scan" subtype="printed-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f05-r-c01">
+              <seg type="diplomatic-text">嗜此奇毒雖素性勤敏者至是亦瞋目貪眠</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-r-c02">
+              <seg type="diplomatic-text">俾晝作夜縱有要事每多廢失且食必以時</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-r-c03">
+              <seg type="diplomatic-text">舟車輿馬按刻引燈或中途阻絕則上涎下</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-r-c04">
+              <seg type="diplomatic-text">痢苦楚難堪至於顏焦骨立似鬼非人是人</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-r-c05">
+              <seg type="diplomatic-text">近鬼求生而不可為生欲死而不能即死雖</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f05-r-c06">
+              <seg type="diplomatic-text">有聰明特達之才華不足為用雖有金玉綺</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f05-r-c07">
+              <seg type="diplomatic-text">羅之富貴不能久享切身之害莫此為甚</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f05-r-c07">
+              <label>右頁外緣版心</label>
+              <seg type="diplomatic-text" rend="unknown">鴉片六戒　二</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f05-l-c01">
+              <seg type="diplomatic-text">壞俗</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-l-c02">
+              <seg type="diplomatic-text">凡食鴉片有上中下三等人俱為害俗而讀</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-l-c03">
+              <seg type="diplomatic-text">書紳衿富貴上等輩為鄉族表率者尤為要</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-l-c04">
+              <seg type="diplomatic-text">緊一染此毒則己不正無以正人鄉族有不</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-l-c05">
+              <seg type="diplomatic-text">法之徒雖嚴行禁戒彼僅面從背則羣指其</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f05-l-c06">
+              <seg type="diplomatic-text">隙而非議之且鄉黨庸眾子弟以為此輩人</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f05-l-c07">
+              <seg type="diplomatic-text">猶且為之相率效尤廉耻盡喪食至囊空烟</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f05-l-c07">
+              <label>左頁外緣版心</label>
+              <seg type="diplomatic-text" rend="unknown">鴉片六戒</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：館標 p. [6]。第1欄「瞋」候「瞑」。第4欄末接次欄首「是人近鬼」。短頓點未逐一編碼。 左面：館標 p. [7]。第1欄「壞俗」小題。第3欄「衿」候「襟」；第5欄「背」候「皆」。第6欄「隙」右部筆畫淡。</ab>
+          </div>
+        </div>
+        <pb n="6" facs="#f06" />
+        <div n="6" type="scan" subtype="printed-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f06-r-c01">
+              <seg type="diplomatic-text">絕則乞憐屈膝甘居下流引奴隸為儕伍偕</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f06-r-c02">
+              <seg type="diplomatic-text">乞丐為同羣甚則設機械以傷人為匪盜以</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f06-r-c03">
+              <seg type="diplomatic-text">致亂愈趨愈下愈推愈廣風俗之壞筆所難</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f06-r-c04">
+              <seg type="diplomatic-text">盡言之寒心</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f06-r-c05">
+              <seg type="diplomatic-text">沉靈</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f06-r-c06">
+              <seg type="diplomatic-text">大神天所諭第六誡云不可殺人凡自盡自</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f06-r-c07">
+              <seg type="diplomatic-text">害者皆犯此誡也蓋生命非己所創乃神天</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f06-r-c07">
+              <label>右頁外緣版心</label>
+              <seg type="diplomatic-text" rend="unknown">鴉片六戒　三</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f06-l-c01">
+              <seg type="diplomatic-text">所賜故不宜自害自盡使之未滿天年先自</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f06-l-c02">
+              <seg type="diplomatic-text">喪身是嗜食鴉片豈不悖逆天意乎且諸罪</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f06-l-c03">
+              <seg type="diplomatic-text">之中惟自害自盡最大而永無救倘殺別人</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f06-l-c04">
+              <seg type="diplomatic-text">我能悔罪亦可望耶穌得救惟此自殺己命</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f06-l-c05">
+              <seg type="diplomatic-text">無能悔罪安免刑罰乎又神天有云無兇手</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f06-l-c06">
+              <seg type="diplomatic-text">乃得常生但凡兇手輩宿娼輩邪術輩拜神</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f06-l-c07">
+              <seg type="diplomatic-text">像輩諸講謊輩俱將得受其分在於以火以</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f06-l-c07">
+              <label>左頁外緣版心</label>
+              <seg type="diplomatic-text" rend="unknown">鴉片六戒</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：館標 p. [8]。第5欄「沉靈」小題。第3欄「趨」候「超」。 左面：館標 p. [9]。第3欄「救」候「赦」；第6欄「宿娼」及第7欄「謊」待覆。第7欄首「像」接上欄末「拜神」。</ab>
+          </div>
+        </div>
+        <pb n="7" facs="#f07" />
+        <div n="7" type="scan" subtype="printed-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f07-r-c01">
+              <seg type="diplomatic-text">硫磺而燒之湖爾嗜食鴉片而自害其身以</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f07-r-c02">
+              <seg type="diplomatic-text">致不得永常生至死後靈魂沉淪于地獄而</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f07-r-c03">
+              <seg type="diplomatic-text">受永苦可不懼哉</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f07-r-c04">
+              <seg type="diplomatic-text">以上數條僅錄其概藉以警世至於販賣煮</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f07-r-c05">
+              <seg type="diplomatic-text">賣之人四處誘惑貽害特深縱幸逃　法網</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f07-r-c06">
+              <seg type="diplomatic-text">必遭冥誅身家喪亡子孫罹禍此自然之理</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f07-r-c07">
+              <seg type="diplomatic-text">也爾嗜食鴉片者當早思回頭切當舍去不</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f07-r-c07">
+              <label>右頁外緣版心</label>
+              <seg type="diplomatic-text" rend="unknown">鴉片六戒　四</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f07-l-c01">
+              <seg type="diplomatic-text">可再食為幸如若舊性不改仍然嗜食是爾</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f07-l-c02">
+              <seg type="diplomatic-text">自舍其生命自喪其靈魂不知此毒之害愈</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f07-l-c03">
+              <seg type="diplomatic-text">食則其害愈深愈久則其病愈重吃者之人</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f07-l-c04">
+              <seg type="diplomatic-text">每以為此物染及既久不能解脫藉以飾詞</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f07-l-c05">
+              <seg type="diplomatic-text">又不知吃者是在世上先受多樣之辛苦後</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f07-l-c06">
+              <seg type="diplomatic-text">壞靈魂之事請問爾仍然再食甘受生前之</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f07-l-c07">
+              <seg type="diplomatic-text">病而死後之苦抑或從此斬斷勿食而倚靠</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f07-l-c07">
+              <label>左頁外緣版心</label>
+              <seg type="diplomatic-text" rend="unknown">鴉片六戒</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：館標 p. [10]。第5欄「逃」「法」間約一字留白，保留。第4欄「藉」候「籍」。第7欄「舍」原字。 左面：館標 p. [11]。第1欄「幸」下接「如若」；第4欄「染及」待覆；第7欄原見「斬斷」。</ab>
+          </div>
+        </div>
+        <pb n="8" facs="#f08" />
+        <div n="8" type="scan" subtype="printed-text">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f08-r-c01">
+              <seg type="diplomatic-text">耶穌之功勞以求自己寶貝靈魂為善惟所</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f08-r-c02">
+              <seg type="diplomatic-text">勿懼欲改無法甘受此奇毒而死然最要者</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f08-r-c03">
+              <seg type="diplomatic-text">應宜日日減些以後自可見其消退或以藥</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f08-r-c04">
+              <seg type="diplomatic-text">漸改亦能脫去之妙每見犯此毒者多有服</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f08-r-c05">
+              <seg type="diplomatic-text">藥見效惟爾要堅心思之勿棄余言則可得</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f08-r-c06">
+              <seg type="diplomatic-text">身体無病日添壯健不至如前日之疲瘦其</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f08-r-c07">
+              <seg type="diplomatic-text">家業亦不至於速亡豈不美哉至改後決不</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f08-r-c07">
+              <label>右頁外緣版心</label>
+              <seg type="diplomatic-text" rend="unknown">鴉片六戒　五</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f08-l-c01">
+              <seg type="diplomatic-text">可棄與再食倘或有人邀爾共食亦不可再</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f08-l-c02">
+              <seg type="diplomatic-text">染及少許為妙凡全無染及之人極為至善</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f08-l-c03">
+              <seg type="diplomatic-text">觀此受染者之辛苦尤宜加戒應宜日日悔</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f08-l-c04">
+              <seg type="diplomatic-text">罪倚靠耶穌赦爾之罪而賜永遠之福及與</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f08-l-c05">
+              <seg type="diplomatic-text">爾寶貝之靈魂得永常生也余不揣為謹陳</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f08-l-c06">
+              <seg type="diplomatic-text">數言願讀者細玩之</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f08-l-c06">
+              <label>左頁外緣版心</label>
+              <seg type="diplomatic-text" rend="unknown">鴉片六戒　六</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：館標 p. [12]。第1、2欄交界「惟所／勿懼」留原讀待覆。第6欄「体」照字形。 左面：館標 p. [13]。第1欄「棄與」待覆。第5欄「為」候「爰」。正文止第6欄。</ab>
+          </div>
+        </div>
+        <pb n="9" facs="#f09" />
+        <div n="9" type="scan" subtype="endleaf-with-running-title">
+          <div type="page-face" n="right">
+            <ab type="page-feature" subtype="running-title">
+              <label>右頁外緣版心</label>
+              <seg type="diplomatic-text" rend="unknown">鴉片六戒　六</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：館標 p. [14]。有三格印欄，欄內淺痕為他頁透墨；外緣另疊後方葉邊。 左面：下封內側，未見正寫文字。</ab>
+          </div>
+        </div>
+        <pb n="10" facs="#f10" />
+        <div n="10" type="scan" subtype="housing-or-binding">
+          <div type="page-face" n="single">
+            <ab type="no-transcribed-text" />
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">單幅：下封外側，未見正寫文字。下角紙裂未入題記。</ab>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

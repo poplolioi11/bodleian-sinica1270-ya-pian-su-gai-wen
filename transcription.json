@@ -1,0 +1,704 @@
+{
+  "metadata": {
+    "title": "鴉片速改文",
+    "catalogue_title": "鴉片速改文",
+    "alternate_title": "Ya pian su gai wen",
+    "roman_title": "Ya pian su gai wen",
+    "author": "仁愛者（Ira Tracy，館目歸屬）",
+    "date": "道光乙未冬（1835）",
+    "location": "新加坡",
+    "repository": "牛津大學博德利圖書館",
+    "repository_en": "Bodleian Libraries, University of Oxford",
+    "collection": "Sinica",
+    "shelfmark": "Sinica 1270",
+    "catalogue": "https://digital.bodleian.ox.ac.uk/objects/df5ed318-42b4-43f6-809c-ab7b15f9f9fb/",
+    "rights": "https://digital.bodleian.ox.ac.uk/terms/",
+    "description": "1835 年新加坡刊行的漢文戒鴉片勸戒文，論吸食對身體、家計、社會及宗教生活的影響。",
+    "manifest_url": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/df5ed318-42b4-43f6-809c-ab7b15f9f9fb.json",
+    "manifest_sha256": "0721b97d9bb6ca15d54d0934bce6ac1984542f3aded459b6b2be7a254440720c",
+    "record_id": "SINICA1270",
+    "edition": "0.1.0",
+    "catalogue_main_scope": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "version": "0.1.0",
+    "dataset_title": "鴉片速改文（1835 年新加坡刊本，牛津 Sinica 1270） / Ya pian su gai wen [An Urgent Appeal to Give Up Opium]: Transcription Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c3f9e50d-4a72-4192-a90a-e7336093e45b.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/c3f9e50d-4a72-4192-a90a-e7336093e45b/full/2000,/0/default.jpg",
+      "label": "Upper cover",
+      "file": "01.jpg",
+      "sha256": "747c31a4f07e4ce535b004b20537685dc38c827baabf740c97d7f9f569c4624f",
+      "bytes": 1017000,
+      "native_width": 5412,
+      "native_height": 6002,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copy-annotation",
+              "location": "封面展覽題籤",
+              "text": "CENTENNIAL EXHIBITION.",
+              "column_anchor": null,
+              "color": "black"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "封面展覽題籤",
+              "text": "China Protestant Mission.",
+              "column_anchor": null,
+              "color": "black"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "封面展覽題籤",
+              "text": "No 106",
+              "column_anchor": null,
+              "color": "black"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "封面上方墨記",
+              "text": "636ᵈ",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "封面下半第一行鉛筆記",
+              "text": "Sinica 1270",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "封面下半圈記",
+              "text": "Ser e. 172",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "copy-annotation",
+              "location": "封面下半圈記",
+              "text": "Chin. 636ᵈ",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：上封面。題籤為英文印刷標籤，106 為手填。第一鉛記下的圈記「Ser」與「e.」待覆。"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1e672120-adf5-430f-bf6a-4f4207ffbcba.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/1e672120-adf5-430f-bf6a-4f4207ffbcba/full/2000,/0/default.jpg",
+      "label": "Inside upper cover and p. [1]",
+      "file": "02.jpg",
+      "sha256": "89401354884b56af639004d30a274008b7b95b71c000dd3f91f83174daf62e58",
+      "bytes": 1101535,
+      "native_width": 5412,
+      "native_height": 6002,
+      "content_role": "title-and-imprint",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": []
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "道光乙未冬鐫　新嘉坡書院藏板"
+            },
+            {
+              "text": "鴉片速改文"
+            },
+            {
+              "text": "仁愛者纂"
+            }
+          ],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：上封內側，未見正寫文字。 左面：實有扉頁三欄。第1欄紀年和藏板名上下同欄，第2欄大字。館標 p. [1]。"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c1ccc9f9-738a-4a0d-956c-8896893ca797.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/c1ccc9f9-738a-4a0d-956c-8896893ca797/full/2000,/0/default.jpg",
+      "label": "pp. [2]-[3]",
+      "file": "03.jpg",
+      "sha256": "72851a967f327938e23d75a714063381452f464d4e62a6b660ac40b2463905b2",
+      "bytes": 1140019,
+      "native_width": 5412,
+      "native_height": 6002,
+      "content_role": "printed-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "seal",
+              "location": "右頁下緣圓印",
+              "text": "〔字數未定〕",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "鴉片六戒"
+            },
+            {
+              "text": "犯法"
+            },
+            {
+              "text": "國法森嚴私開烟館煮賣販賣以及食者重"
+            },
+            {
+              "text": "則擬絞軍徒輕則枷杖人生世間事事可以"
+            },
+            {
+              "text": "謀生物物可以娛情何苦專尋此毒自罹法"
+            },
+            {
+              "text": "網"
+            },
+            {
+              "text": "不孝"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁外緣版心",
+              "text": "鴉片六戒",
+              "column_anchor": 7,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：館標 p. [2]。可見扉頁反向透墨及右下圓印，無另錄正寫文字。 左面：館標 p. [3]。第1欄為篇題。第2、7欄「犯法」「不孝」抬頭為小題。第3欄「烟」依木刻字形。"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c20367ed-e424-4fab-be61-3174e7271d60.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/c20367ed-e424-4fab-be61-3174e7271d60/full/2000,/0/default.jpg",
+      "label": "pp. [4]-[5]",
+      "file": "04.jpg",
+      "sha256": "0d74398c52608a0ce46e1f45bc4241cad47fd53fee0c04eb102f45969030f974",
+      "bytes": 1342196,
+      "native_width": 5412,
+      "native_height": 6002,
+      "content_role": "printed-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "嗜食鴉片為父母者既憂其絕嗣促年又懼"
+            },
+            {
+              "text": "其不法生禍以血氣既衰之人積沈鬱莫解"
+            },
+            {
+              "text": "之憂因憂致疾因疾隕命是何異於人子促"
+            },
+            {
+              "text": "親之壽言念及此不孝之罪真堪痛恨"
+            },
+            {
+              "text": "破家"
+            },
+            {
+              "text": "凡人衣食饒裕或祖父所遺或一己自創一"
+            },
+            {
+              "text": "旦嗜此上引坐食無用兼以流朋宴友吹波"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁外緣版心",
+              "text": "鴉片六戒　一",
+              "column_anchor": 7,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "助瀾聚集浪費身家定必銷乏迨雞食艱不給"
+            },
+            {
+              "text": "借貸無門甚至質妻賣子途窮自盡者有之"
+            },
+            {
+              "text": "廻思向所享產業經祖父及當身多少辛勤"
+            },
+            {
+              "text": "儉積纔得有此飽暖之福今因嗜此而忽歸"
+            },
+            {
+              "text": "烏有饑寒迫切妻啼子號清夜豈敢捫心到"
+            },
+            {
+              "text": "此悔之何及"
+            },
+            {
+              "text": "害身"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁外緣版心",
+              "text": "鴉片六戒",
+              "column_anchor": 7,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：館標 p. [4]，版心「一」另列，館標與原葉碼有別。第2欄「沈」照圖。第7欄「流朋」待覆。 左面：館標 p. [5]。第1欄「銷乏迨雞食艱」數字待覆。第4欄「儉」候「儲」。第7欄圖讀「害身」，館外另一底本作「舍身」，保留此本題字。"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d4a91d67-a424-4904-9804-c94c6a8623cd.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/d4a91d67-a424-4904-9804-c94c6a8623cd/full/2000,/0/default.jpg",
+      "label": "pp. [6]-[7]",
+      "file": "05.jpg",
+      "sha256": "c8b081c4ebec74c4b09e3e86daf6fb3f71e3eb2ac0027de00297cc21b33a5b90",
+      "bytes": 1355805,
+      "native_width": 5412,
+      "native_height": 6002,
+      "content_role": "printed-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "嗜此奇毒雖素性勤敏者至是亦瞋目貪眠"
+            },
+            {
+              "text": "俾晝作夜縱有要事每多廢失且食必以時"
+            },
+            {
+              "text": "舟車輿馬按刻引燈或中途阻絕則上涎下"
+            },
+            {
+              "text": "痢苦楚難堪至於顏焦骨立似鬼非人是人"
+            },
+            {
+              "text": "近鬼求生而不可為生欲死而不能即死雖"
+            },
+            {
+              "text": "有聰明特達之才華不足為用雖有金玉綺"
+            },
+            {
+              "text": "羅之富貴不能久享切身之害莫此為甚"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁外緣版心",
+              "text": "鴉片六戒　二",
+              "column_anchor": 7,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "壞俗"
+            },
+            {
+              "text": "凡食鴉片有上中下三等人俱為害俗而讀"
+            },
+            {
+              "text": "書紳衿富貴上等輩為鄉族表率者尤為要"
+            },
+            {
+              "text": "緊一染此毒則己不正無以正人鄉族有不"
+            },
+            {
+              "text": "法之徒雖嚴行禁戒彼僅面從背則羣指其"
+            },
+            {
+              "text": "隙而非議之且鄉黨庸眾子弟以為此輩人"
+            },
+            {
+              "text": "猶且為之相率效尤廉耻盡喪食至囊空烟"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁外緣版心",
+              "text": "鴉片六戒",
+              "column_anchor": 7,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：館標 p. [6]。第1欄「瞋」候「瞑」。第4欄末接次欄首「是人近鬼」。短頓點未逐一編碼。 左面：館標 p. [7]。第1欄「壞俗」小題。第3欄「衿」候「襟」；第5欄「背」候「皆」。第6欄「隙」右部筆畫淡。"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0f179d9a-2f1f-48f2-845b-f36289a4bd5a.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/0f179d9a-2f1f-48f2-845b-f36289a4bd5a/full/2000,/0/default.jpg",
+      "label": "pp. [8]-[9]",
+      "file": "06.jpg",
+      "sha256": "6f631fc0935a031e6eb34b91a02b029187808aa51f4daeec40c6fd98dd3ccbc1",
+      "bytes": 1344610,
+      "native_width": 5412,
+      "native_height": 6002,
+      "content_role": "printed-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "絕則乞憐屈膝甘居下流引奴隸為儕伍偕"
+            },
+            {
+              "text": "乞丐為同羣甚則設機械以傷人為匪盜以"
+            },
+            {
+              "text": "致亂愈趨愈下愈推愈廣風俗之壞筆所難"
+            },
+            {
+              "text": "盡言之寒心"
+            },
+            {
+              "text": "沉靈"
+            },
+            {
+              "text": "大神天所諭第六誡云不可殺人凡自盡自"
+            },
+            {
+              "text": "害者皆犯此誡也蓋生命非己所創乃神天"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁外緣版心",
+              "text": "鴉片六戒　三",
+              "column_anchor": 7,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "所賜故不宜自害自盡使之未滿天年先自"
+            },
+            {
+              "text": "喪身是嗜食鴉片豈不悖逆天意乎且諸罪"
+            },
+            {
+              "text": "之中惟自害自盡最大而永無救倘殺別人"
+            },
+            {
+              "text": "我能悔罪亦可望耶穌得救惟此自殺己命"
+            },
+            {
+              "text": "無能悔罪安免刑罰乎又神天有云無兇手"
+            },
+            {
+              "text": "乃得常生但凡兇手輩宿娼輩邪術輩拜神"
+            },
+            {
+              "text": "像輩諸講謊輩俱將得受其分在於以火以"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁外緣版心",
+              "text": "鴉片六戒",
+              "column_anchor": 7,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：館標 p. [8]。第5欄「沉靈」小題。第3欄「趨」候「超」。 左面：館標 p. [9]。第3欄「救」候「赦」；第6欄「宿娼」及第7欄「謊」待覆。第7欄首「像」接上欄末「拜神」。"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dac490a4-eca8-4393-b723-28d056dc6f75.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/dac490a4-eca8-4393-b723-28d056dc6f75/full/2000,/0/default.jpg",
+      "label": "pp. [10]-[11]",
+      "file": "07.jpg",
+      "sha256": "5845602a431288395e6c1221903a99c0dbc5e2a1cc94dd96ab6806fe25fec766",
+      "bytes": 1342201,
+      "native_width": 5412,
+      "native_height": 6002,
+      "content_role": "printed-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "硫磺而燒之湖爾嗜食鴉片而自害其身以"
+            },
+            {
+              "text": "致不得永常生至死後靈魂沉淪于地獄而"
+            },
+            {
+              "text": "受永苦可不懼哉"
+            },
+            {
+              "text": "以上數條僅錄其概藉以警世至於販賣煮"
+            },
+            {
+              "text": "賣之人四處誘惑貽害特深縱幸逃　法網"
+            },
+            {
+              "text": "必遭冥誅身家喪亡子孫罹禍此自然之理"
+            },
+            {
+              "text": "也爾嗜食鴉片者當早思回頭切當舍去不"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁外緣版心",
+              "text": "鴉片六戒　四",
+              "column_anchor": 7,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "可再食為幸如若舊性不改仍然嗜食是爾"
+            },
+            {
+              "text": "自舍其生命自喪其靈魂不知此毒之害愈"
+            },
+            {
+              "text": "食則其害愈深愈久則其病愈重吃者之人"
+            },
+            {
+              "text": "每以為此物染及既久不能解脫藉以飾詞"
+            },
+            {
+              "text": "又不知吃者是在世上先受多樣之辛苦後"
+            },
+            {
+              "text": "壞靈魂之事請問爾仍然再食甘受生前之"
+            },
+            {
+              "text": "病而死後之苦抑或從此斬斷勿食而倚靠"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁外緣版心",
+              "text": "鴉片六戒",
+              "column_anchor": 7,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：館標 p. [10]。第5欄「逃」「法」間約一字留白，保留。第4欄「藉」候「籍」。第7欄「舍」原字。 左面：館標 p. [11]。第1欄「幸」下接「如若」；第4欄「染及」待覆；第7欄原見「斬斷」。"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9d69e789-4ccb-4e4b-ab08-99b3557f2aeb.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/9d69e789-4ccb-4e4b-ab08-99b3557f2aeb/full/2000,/0/default.jpg",
+      "label": "pp. [12]-[13]",
+      "file": "08.jpg",
+      "sha256": "281ca9cf4c2cadc00f9ee0bdddc8888407a2da4e6f7799f2f49e5e99a633b5fb",
+      "bytes": 1306700,
+      "native_width": 5412,
+      "native_height": 6002,
+      "content_role": "printed-text",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [
+            {
+              "text": "耶穌之功勞以求自己寶貝靈魂為善惟所"
+            },
+            {
+              "text": "勿懼欲改無法甘受此奇毒而死然最要者"
+            },
+            {
+              "text": "應宜日日減些以後自可見其消退或以藥"
+            },
+            {
+              "text": "漸改亦能脫去之妙每見犯此毒者多有服"
+            },
+            {
+              "text": "藥見效惟爾要堅心思之勿棄余言則可得"
+            },
+            {
+              "text": "身体無病日添壯健不至如前日之疲瘦其"
+            },
+            {
+              "text": "家業亦不至於速亡豈不美哉至改後決不"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁外緣版心",
+              "text": "鴉片六戒　五",
+              "column_anchor": 7,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [
+            {
+              "text": "可棄與再食倘或有人邀爾共食亦不可再"
+            },
+            {
+              "text": "染及少許為妙凡全無染及之人極為至善"
+            },
+            {
+              "text": "觀此受染者之辛苦尤宜加戒應宜日日悔"
+            },
+            {
+              "text": "罪倚靠耶穌赦爾之罪而賜永遠之福及與"
+            },
+            {
+              "text": "爾寶貝之靈魂得永常生也余不揣為謹陳"
+            },
+            {
+              "text": "數言願讀者細玩之"
+            }
+          ],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "左頁外緣版心",
+              "text": "鴉片六戒　六",
+              "column_anchor": 6,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "右面：館標 p. [12]。第1、2欄交界「惟所／勿懼」留原讀待覆。第6欄「体」照字形。 左面：館標 p. [13]。第1欄「棄與」待覆。第5欄「為」候「爰」。正文止第6欄。"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/be8975c8-7dc2-476e-8e23-7a7acdce8313.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/be8975c8-7dc2-476e-8e23-7a7acdce8313/full/2000,/0/default.jpg",
+      "label": "p. [14] and inside lower cover",
+      "file": "09.jpg",
+      "sha256": "c556a4e747732a7dead36f0fed7c1b17e52d4f3b6ea24503d62b92e4755f71d3",
+      "bytes": 1091693,
+      "native_width": 5412,
+      "native_height": 6002,
+      "content_role": "endleaf-with-running-title",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "right",
+          "columns": [],
+          "extras": [
+            {
+              "type": "running-title",
+              "location": "右頁外緣版心",
+              "text": "鴉片六戒　六",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "右面：館標 p. [14]。有三格印欄，欄內淺痕為他頁透墨；外緣另疊後方葉邊。 左面：下封內側，未見正寫文字。"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/8e6841fd-7897-4da8-abf1-81e7efd33e4f.json",
+      "image_url": "https://iiif.bodleian.ox.ac.uk/iiif/image/8e6841fd-7897-4da8-abf1-81e7efd33e4f/full/2000,/0/default.jpg",
+      "label": "Lower cover",
+      "file": "10.jpg",
+      "sha256": "a7c7c6a44f427351f2eb6f24ace138822877a13f2c4ef2fe26d74a46f50e395b",
+      "bytes": 1069427,
+      "native_width": 5412,
+      "native_height": 6002,
+      "content_role": "housing-or-binding",
+      "state": "initial-read",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "單幅：下封外側，未見正寫文字。下角紙裂未入題記。"
+    }
+  ]
+}

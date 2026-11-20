@@ -1,0 +1,83 @@
+{
+  "historical_author": "仁愛者（Ira Tracy，館目歸屬）",
+  "source_identity": "牛津大學博德利圖書館 Sinica 1270",
+  "source": "https://digital.bodleian.ox.ac.uk/objects/df5ed318-42b4-43f6-809c-ab7b15f9f9fb/",
+  "iiif_manifest": "https://iiif.bodleian.ox.ac.uk/iiif/manifest/df5ed318-42b4-43f6-809c-ab7b15f9f9fb.json",
+  "source_rights_policy": "https://digital.bodleian.ox.ac.uk/terms/",
+  "dataset_version": "0.1.0",
+  "scan_count": 10,
+  "content_scan_count": 7,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c3f9e50d-4a72-4192-a90a-e7336093e45b.json",
+      "label": "Upper cover",
+      "sha256": "747c31a4f07e4ce535b004b20537685dc38c827baabf740c97d7f9f569c4624f",
+      "content_role": "housing-or-binding"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/1e672120-adf5-430f-bf6a-4f4207ffbcba.json",
+      "label": "Inside upper cover and p. [1]",
+      "sha256": "89401354884b56af639004d30a274008b7b95b71c000dd3f91f83174daf62e58",
+      "content_role": "title-and-imprint"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c1ccc9f9-738a-4a0d-956c-8896893ca797.json",
+      "label": "pp. [2]-[3]",
+      "sha256": "72851a967f327938e23d75a714063381452f464d4e62a6b660ac40b2463905b2",
+      "content_role": "printed-text"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c20367ed-e424-4fab-be61-3174e7271d60.json",
+      "label": "pp. [4]-[5]",
+      "sha256": "0d74398c52608a0ce46e1f45bc4241cad47fd53fee0c04eb102f45969030f974",
+      "content_role": "printed-text"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d4a91d67-a424-4904-9804-c94c6a8623cd.json",
+      "label": "pp. [6]-[7]",
+      "sha256": "c8b081c4ebec74c4b09e3e86daf6fb3f71e3eb2ac0027de00297cc21b33a5b90",
+      "content_role": "printed-text"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0f179d9a-2f1f-48f2-845b-f36289a4bd5a.json",
+      "label": "pp. [8]-[9]",
+      "sha256": "6f631fc0935a031e6eb34b91a02b029187808aa51f4daeec40c6fd98dd3ccbc1",
+      "content_role": "printed-text"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dac490a4-eca8-4393-b723-28d056dc6f75.json",
+      "label": "pp. [10]-[11]",
+      "sha256": "5845602a431288395e6c1221903a99c0dbc5e2a1cc94dd96ab6806fe25fec766",
+      "content_role": "printed-text"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9d69e789-4ccb-4e4b-ab08-99b3557f2aeb.json",
+      "label": "pp. [12]-[13]",
+      "sha256": "281ca9cf4c2cadc00f9ee0bdddc8888407a2da4e6f7799f2f49e5e99a633b5fb",
+      "content_role": "printed-text"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/be8975c8-7dc2-476e-8e23-7a7acdce8313.json",
+      "label": "p. [14] and inside lower cover",
+      "sha256": "c556a4e747732a7dead36f0fed7c1b17e52d4f3b6ea24503d62b92e4755f71d3",
+      "content_role": "endleaf-with-running-title"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/8e6841fd-7897-4da8-abf1-81e7efd33e4f.json",
+      "label": "Lower cover",
+      "sha256": "a7c7c6a44f427351f2eb6f24ace138822877a13f2c4ef2fe26d74a46f50e395b",
+      "content_role": "housing-or-binding"
+    }
+  ]
+}
