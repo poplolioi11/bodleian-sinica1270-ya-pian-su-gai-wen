@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '鴉片速改文（1835 年新加坡刊本，牛津 Sinica 1270） / Ya pian su gai wen [An Urgent Appeal to
   Give Up Opium]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

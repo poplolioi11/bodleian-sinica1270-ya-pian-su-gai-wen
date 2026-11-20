@@ -4,11 +4,11 @@
 
 Ya pian su gai wen is a Chinese anti-opium pamphlet issued in 1835 by the Xinjiapo shu yuan in Singapore. Its credited author is Ren’ai zhe (仁愛者), identified in the Bodleian catalogue as Ira Tracy. The text describes the bodily, familial, societal, and spiritual harms of opium smoking and documents nineteenth-century missionary publishing and anti-opium advocacy.
 
-## V0.1.0
+## V0.2.0
 
-全冊 10 幅均編目。第 2 至 8 幅有 12 個原刊文字書面，含扉頁、六戒及卷末勸戒。印記、版心與英文展覽題籤另錄。AI 輔助逐欄初錄。原圖所在頁及疑讀留有定位。
+全冊 10 幅均編目。第 2 至 8 幅有 12 個原刊文字書面，含扉頁、六戒及卷末勸戒。印記、版心與英文展覽題籤另錄。比對未見初稿的本機 OCR 候選後，回圖裁定採用 6 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-All 10 scans are indexed. The 12 written faces across scans 2–8 include the title leaf, six admonitions, and concluding appeal. Stamps, running titles, and the English exhibition bookplate are recorded separately. AI-assisted column-by-column initial transcription with source links and marked uncertainty.
+All 10 scans are indexed. The 12 written faces across scans 2–8 include the title leaf, six admonitions, and concluding appeal. Stamps, running titles, and the English exhibition bookplate are recorded separately. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 6 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 

@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -118,6 +118,10 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">單幅：上封面。題籤為英文印刷標籤，106 為手填。第一鉛記下的圈記「Ser」與「e.」待覆。</ab>
+            <ab type="transcription-issue" n="single:None">
+              <quote>Ser e. 172</quote>
+              <note type="editorial">舊藏鉛筆旁注，部分英文字母仍待核。</note>
+            </ab>
           </div>
         </div>
         <pb n="2" facs="#f02" />
@@ -177,6 +181,12 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">右面：館標 p. [2]。可見扉頁反向透墨及右下圓印，無另錄正寫文字。 左面：館標 p. [3]。第1欄為篇題。第2、7欄「犯法」「不孝」抬頭為小題。第3欄「烟」依木刻字形。</ab>
+            <ab type="transcription-issue" n="left:3">
+              <quote>烟館</quote>
+              <seg type="candidate">烟館</seg>
+              <seg type="candidate">烟舘</seg>
+              <note type="editorial">右部官清楚，左部下緣墨線部分斷。</note>
+            </ab>
           </div>
         </div>
         <pb n="4" facs="#f04" />
@@ -201,7 +211,7 @@
               <seg type="diplomatic-text">凡人衣食饒裕或祖父所遺或一己自創一</seg>
             </ab>
             <ab type="column" n="7" xml:id="f04-r-c07">
-              <seg type="diplomatic-text">旦嗜此上引坐食無用兼以流朋宴友吹波</seg>
+              <seg type="diplomatic-text">旦嗜此上引坐食無用兼以混朋宴友吹波</seg>
             </ab>
             <ab type="page-feature" subtype="running-title" corresp="#f04-r-c07">
               <label>右頁外緣版心</label>
@@ -210,7 +220,7 @@
           </div>
           <div type="page-face" n="left">
             <ab type="column" n="1" xml:id="f04-l-c01">
-              <seg type="diplomatic-text">助瀾聚集浪費身家定必銷乏迨雞食艱不給</seg>
+              <seg type="diplomatic-text">助瀾聚集浪費身家定必銷乏迨饔飧不給</seg>
             </ab>
             <ab type="column" n="2" xml:id="f04-l-c02">
               <seg type="diplomatic-text">借貸無門甚至質妻賣子途窮自盡者有之</seg>
@@ -237,6 +247,12 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">右面：館標 p. [4]，版心「一」另列，館標與原葉碼有別。第2欄「沈」照圖。第7欄「流朋」待覆。 左面：館標 p. [5]。第1欄「銷乏迨雞食艱」數字待覆。第4欄「儉」候「儲」。第7欄圖讀「害身」，館外另一底本作「舍身」，保留此本題字。</ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>儉</quote>
+              <seg type="candidate">儉</seg>
+              <seg type="candidate">儲</seg>
+              <note type="editorial">該字左側墨跡壅塞。</note>
+            </ab>
           </div>
         </div>
         <pb n="5" facs="#f05" />
@@ -318,7 +334,7 @@
               <seg type="diplomatic-text">沉靈</seg>
             </ab>
             <ab type="column" n="6" xml:id="f06-r-c06">
-              <seg type="diplomatic-text">大神天所諭第六誡云不可殺人凡自盡自</seg>
+              <seg type="diplomatic-text">夫神天所諭第六誡云不可殺人凡自盡自</seg>
             </ab>
             <ab type="column" n="7" xml:id="f06-r-c07">
               <seg type="diplomatic-text">害者皆犯此誡也蓋生命非己所創乃神天</seg>
@@ -417,13 +433,19 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">右面：館標 p. [10]。第5欄「逃」「法」間約一字留白，保留。第4欄「藉」候「籍」。第7欄「舍」原字。 左面：館標 p. [11]。第1欄「幸」下接「如若」；第4欄「染及」待覆；第7欄原見「斬斷」。</ab>
+            <ab type="transcription-issue" n="right:4">
+              <quote>藉</quote>
+              <seg type="candidate">藉</seg>
+              <seg type="candidate">籍</seg>
+              <note type="editorial">上緣不足以定艹、竹。</note>
+            </ab>
           </div>
         </div>
         <pb n="8" facs="#f08" />
         <div n="8" type="scan" subtype="printed-text">
           <div type="page-face" n="right">
             <ab type="column" n="1" xml:id="f08-r-c01">
-              <seg type="diplomatic-text">耶穌之功勞以求自己寶貝靈魂為善惟所</seg>
+              <seg type="diplomatic-text">耶穌之功勞以求自己宝貝靈魂為善惟所</seg>
             </ab>
             <ab type="column" n="2" xml:id="f08-r-c02">
               <seg type="diplomatic-text">勿懼欲改無法甘受此奇毒而死然最要者</seg>
@@ -435,7 +457,7 @@
               <seg type="diplomatic-text">漸改亦能脫去之妙每見犯此毒者多有服</seg>
             </ab>
             <ab type="column" n="5" xml:id="f08-r-c05">
-              <seg type="diplomatic-text">藥見效惟爾要堅心思之勿棄余言則可得</seg>
+              <seg type="diplomatic-text">藥見效惟尔要堅心思之勿棄余言則可得</seg>
             </ab>
             <ab type="column" n="6" xml:id="f08-r-c06">
               <seg type="diplomatic-text">身体無病日添壯健不至如前日之疲瘦其</seg>
@@ -462,7 +484,7 @@
               <seg type="diplomatic-text">罪倚靠耶穌赦爾之罪而賜永遠之福及與</seg>
             </ab>
             <ab type="column" n="5" xml:id="f08-l-c05">
-              <seg type="diplomatic-text">爾寶貝之靈魂得永常生也余不揣為謹陳</seg>
+              <seg type="diplomatic-text">尔宝貝之靈魂得永常生也余不揣為謹陳</seg>
             </ab>
             <ab type="column" n="6" xml:id="f08-l-c06">
               <seg type="diplomatic-text">數言願讀者細玩之</seg>
@@ -474,6 +496,11 @@
           </div>
           <div type="editorial-observations">
             <ab type="layout">右面：館標 p. [12]。第1、2欄交界「惟所／勿懼」留原讀待覆。第6欄「体」照字形。 左面：館標 p. [13]。第1欄「棄與」待覆。第5欄「為」候「爰」。正文止第6欄。</ab>
+            <ab type="transcription-issue" n="left:1">
+              <quote>棄與</quote>
+              <seg type="candidate">棄與</seg>
+              <note type="editorial">第二字為與，前字仍保留候讀。</note>
+            </ab>
           </div>
         </div>
         <pb n="9" facs="#f09" />

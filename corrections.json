@@ -1,0 +1,247 @@
+{
+  "terminology": "一筆修訂可包含同欄多字；依底本採用的修訂及仍待判的位置保留原圖入口。",
+  "changed_locations": 6,
+  "changes": [
+    {
+      "image": 4,
+      "side": "right",
+      "column": 7,
+      "kind": "main",
+      "op": "replace",
+      "before": "流朋",
+      "after": "混朋",
+      "reason": "右部下端呈昆形，保留水旁。",
+      "source_bbox": [
+        1000,
+        900,
+        1115,
+        1655
+      ],
+      "offset": [
+        11,
+        13
+      ],
+      "source_image_sha256": "0d74398c52608a0ce46e1f45bc4241cad47fd53fee0c04eb102f45969030f974",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c20367ed-e424-4fab-be61-3174e7271d60.json"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 1,
+      "kind": "main",
+      "op": "replace",
+      "before": "迨雞食艱不給",
+      "after": "迨饔飧不給",
+      "reason": "饔上雍下食合寫。飧為夕、食並列。",
+      "source_bbox": [
+        805,
+        1153,
+        917,
+        1635
+      ],
+      "offset": [
+        12,
+        18
+      ],
+      "source_image_sha256": "0d74398c52608a0ce46e1f45bc4241cad47fd53fee0c04eb102f45969030f974",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c20367ed-e424-4fab-be61-3174e7271d60.json"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 6,
+      "kind": "main",
+      "op": "replace",
+      "before": "大神天",
+      "after": "夫神天",
+      "reason": "欄首可見上下兩橫，依刻字作夫。",
+      "source_bbox": [
+        1117,
+        456,
+        1249,
+        666
+      ],
+      "offset": [
+        0,
+        3
+      ],
+      "source_image_sha256": "6f631fc0935a031e6eb34b91a02b029187808aa51f4daeec40c6fd98dd3ccbc1",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0f179d9a-2f1f-48f2-845b-f36289a4bd5a.json"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 1,
+      "kind": "main",
+      "op": "replace",
+      "before": "寶貝",
+      "after": "宝貝",
+      "reason": "第二組為宀下玉的簡形。",
+      "source_bbox": [
+        1710,
+        451,
+        1837,
+        1176
+      ],
+      "offset": [
+        9,
+        11
+      ],
+      "source_image_sha256": "281ca9cf4c2cadc00f9ee0bdddc8888407a2da4e6f7799f2f49e5e99a633b5fb",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9d69e789-4ccb-4e4b-ab08-99b3557f2aeb.json"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 5,
+      "kind": "main",
+      "op": "replace",
+      "before": "爾",
+      "after": "尔",
+      "reason": "可辨上撮與下小形，保留原刻短形。",
+      "source_bbox": [
+        1261,
+        702,
+        1363,
+        871
+      ],
+      "offset": [
+        4,
+        5
+      ],
+      "source_image_sha256": "281ca9cf4c2cadc00f9ee0bdddc8888407a2da4e6f7799f2f49e5e99a633b5fb",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9d69e789-4ccb-4e4b-ab08-99b3557f2aeb.json"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 5,
+      "kind": "main",
+      "op": "replace",
+      "before": "爾寶貝",
+      "after": "尔宝貝",
+      "reason": "首兩字為尔、宝的原刻短形。",
+      "source_bbox": [
+        398,
+        440,
+        504,
+        766
+      ],
+      "offset": [
+        0,
+        3
+      ],
+      "source_image_sha256": "281ca9cf4c2cadc00f9ee0bdddc8888407a2da4e6f7799f2f49e5e99a633b5fb",
+      "canvas": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9d69e789-4ccb-4e4b-ab08-99b3557f2aeb.json"
+    }
+  ],
+  "differences_for_future_review": [
+    {
+      "image": 1,
+      "side": "single",
+      "column": null,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c3f9e50d-4a72-4192-a90a-e7336093e45b.json",
+      "status": "字形留待查核"
+    },
+    {
+      "image": 3,
+      "side": "left",
+      "column": 3,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c1ccc9f9-738a-4a0d-956c-8896893ca797.json",
+      "status": "字形留待查核"
+    },
+    {
+      "image": 4,
+      "side": "left",
+      "column": 4,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c20367ed-e424-4fab-be61-3174e7271d60.json",
+      "status": "字形留待查核"
+    },
+    {
+      "image": 7,
+      "side": "right",
+      "column": 4,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dac490a4-eca8-4393-b723-28d056dc6f75.json",
+      "status": "字形留待查核"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 1,
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9d69e789-4ccb-4e4b-ab08-99b3557f2aeb.json",
+      "status": "字形留待查核"
+    }
+  ],
+  "retained_readings": [
+    {
+      "image": 4,
+      "side": "left",
+      "column": 3,
+      "source_image_sha256": "0d74398c52608a0ce46e1f45bc4241cad47fd53fee0c04eb102f45969030f974",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/c20367ed-e424-4fab-be61-3174e7271d60.json",
+      "reading": "廻思",
+      "status": "依原圖留讀",
+      "reason": "字形的回部與下長筆可見，保留廻。"
+    },
+    {
+      "image": 5,
+      "side": "right",
+      "column": 1,
+      "source_image_sha256": "c8b081c4ebec74c4b09e3e86daf6fb3f71e3eb2ac0027de00297cc21b33a5b90",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d4a91d67-a424-4904-9804-c94c6a8623cd.json",
+      "reading": "瞋",
+      "status": "依原圖留讀",
+      "reason": "右部為真形。"
+    },
+    {
+      "image": 5,
+      "side": "left",
+      "column": 3,
+      "source_image_sha256": "c8b081c4ebec74c4b09e3e86daf6fb3f71e3eb2ac0027de00297cc21b33a5b90",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/d4a91d67-a424-4904-9804-c94c6a8623cd.json",
+      "reading": "紳衿",
+      "status": "依原圖留讀",
+      "reason": "衿右從今。"
+    },
+    {
+      "image": 6,
+      "side": "right",
+      "column": 1,
+      "source_image_sha256": "6f631fc0935a031e6eb34b91a02b029187808aa51f4daeec40c6fd98dd3ccbc1",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/0f179d9a-2f1f-48f2-845b-f36289a4bd5a.json",
+      "reading": "偕",
+      "status": "依原圖留讀",
+      "reason": "亻右上作比，下白。"
+    },
+    {
+      "image": 7,
+      "side": "left",
+      "column": 4,
+      "source_image_sha256": "5845602a431288395e6c1221903a99c0dbc5e2a1cc94dd96ab6806fe25fec766",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/dac490a4-eca8-4393-b723-28d056dc6f75.json",
+      "reading": "染及",
+      "status": "依原圖留讀",
+      "reason": "及字無言或糸旁。"
+    },
+    {
+      "image": 8,
+      "side": "right",
+      "column": 1,
+      "source_image_sha256": "281ca9cf4c2cadc00f9ee0bdddc8888407a2da4e6f7799f2f49e5e99a633b5fb",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9d69e789-4ccb-4e4b-ab08-99b3557f2aeb.json",
+      "reading": "惟所",
+      "status": "依原圖留讀",
+      "reason": "同幅次欄起作勿懼，各依原刻。"
+    },
+    {
+      "image": 8,
+      "side": "left",
+      "column": 6,
+      "source_image_sha256": "281ca9cf4c2cadc00f9ee0bdddc8888407a2da4e6f7799f2f49e5e99a633b5fb",
+      "canvas_id": "https://iiif.bodleian.ox.ac.uk/iiif/canvas/9d69e789-4ccb-4e4b-ab08-99b3557f2aeb.json",
+      "reading": "細玩之",
+      "status": "依原圖留讀",
+      "reason": "卷末原刻可定位。"
+    }
+  ]
+}
